@@ -1,16 +1,28 @@
-# mi_card
 
-A new Flutter project.
+# Mi Card
 
-## Getting Started
+## Project Goal
 
-This project is a starting point for a Flutter application.
+Learn more about how to design user interfaces for Flutter apps.
 
-A few resources to get you started if this is your first Flutter project:
+## What you will create
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Mi Card is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Skills Gained by doing this Project
+
+* How to create Stateless Widgets
+* How to use Containers to lay out your UI
+* How to use Columns and Rows to position your UI elements
+* How to add custom fonts to a flutter project
+* How to add Material icons
+* How to style Text widgets
+* How to read and use Flutter Documentation
+
+## Use this project yourself
+
+* Ensure your flutter development environment is set up if not follow this link to set it up https://flutter.dev/docs/get-started/install
+* Clone the project to your local machine
+* Get the project dependencies by running 'flutter pub get'
+* Run the project
+* Customise and Use the project for yourself :thumbsup:
